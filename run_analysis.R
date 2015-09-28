@@ -5,7 +5,7 @@
 # Task 4: appropriately label the data set with descriptive variable names. 
 # Task 5: from the data set in task 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-
+library(plyr)
 
 # select only the measurements on the mean and standard deviation for each measurement (part of Task 2)
 features <- read.table("UCI HAR Dataset/features.txt")
