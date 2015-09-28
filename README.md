@@ -14,3 +14,6 @@ The script does the following:
 7. Save the tidy dataset in a file.
 
 The final dataset is saved in the file `avg_har.txt`.
+=======
+# Get-data-CP
+Coursera "Getting Data" course project
